@@ -1,0 +1,51 @@
+[
+    {
+        "title": "flight to canada",
+        "time": "1pm",
+        "price": 26000,
+        "date": "26-06-2022"
+    },
+    {
+        "title": "flight to US",
+        "time": "2pm",
+        "price": 36000,
+        "date": "27-06-2022"
+    },
+    {
+        "title": "flight to UK",
+        "time": "3pm",
+        "price": 16000,
+        "date": "28-06-2022"
+    },
+    {
+        "title": "flight to Germany",
+        "time": "4pm",
+        "price": 46000,
+        "date": "29-06-2022"
+    },
+    {
+        "title": "flight to Ireland",
+        "time": "5pm",
+        "price": 56000,
+        "date": "30-06-2022"
+    },
+    {
+        "title": "flight to Ghana",
+        "time": "6pm",
+        "price": 21000,
+        "date": "15-06-2022"
+    },
+    {
+        "title": "flight to Rwanda",
+        "time": "8am",
+        "price": 22000,
+        "date": "26-07-2022"
+    },
+    {
+        "title": "flight to France",
+        "time": "5am",
+        "price": 31000,
+        "date": "26-07-2022"
+    }
+  
+]
